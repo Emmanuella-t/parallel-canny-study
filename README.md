@@ -4,7 +4,7 @@
        width="100%">
 </p>
 
-### Seeing edges differently — through C++, pthreads, and systems thinking.
+### Exploring image processing with C++, pthreads, and systems concepts.
 
 <p align="center">
   <a href="https://github.com/solar224/canny-edge-detector-parallel"><img src="https://img.shields.io/badge/study%20of-solar224%2Fcanny--edge--detector--parallel-1c2128?style=flat-square" alt="Study of solar224/canny-edge-detector-parallel"></a>
