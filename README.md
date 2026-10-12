@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/canny-banner.png" alt="Original image compared with Canny edge detection output" width="850">
-</p>
-
-<p align="center">
   <sub>C++ &nbsp;•&nbsp; Linux &nbsp;•&nbsp; POSIX Threads &nbsp;•&nbsp; OpenCV &nbsp;•&nbsp; Image Processing &nbsp;•&nbsp; Concurrency</sub>
 </p>
 
